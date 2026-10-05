@@ -1,0 +1,524 @@
+[
+    {
+        "video_name": "brownie.mp4",
+        "num_frames": 103,
+        "frame_descriptions": [
+            {
+                "frame_number": 20,
+                "timestamp": 0.6666666666666666,
+                "description": "A close-up shot shows a single, thick slice of chocolate brownie being held by a person's hand. The brownie has a moist, dense texture with visible melted chocolate chips embedded in its surface and interior. It rests on a bright yellow plate. The hand is positioned around the sides of the brownie, gently holding it. The background is out of focus, with a faint logo visible in the top right corner."
+            },
+            {
+                "frame_number": 40,
+                "timestamp": 1.3333333333333333,
+                "description": "The scene has shifted from showcasing the finished brownie to the preparation stage. A hand is holding a small white bowl containing melted butter, poised to add it to a large, empty clear glass mixing bowl centered on a marble countertop. Text overlay indicates \"melted butter 1/2 cup\". To the right of the mixing bowl, there are two small white bowls: one with chocolate chips and another with a brown powder, likely cocoa, next to a wooden spoon with some of the powder on it. This frame depicts the beginning of a recipe, with the first ingredient being prepared for mixing."
+            },
+            {
+                "frame_number": 60,
+                "timestamp": 2.0,
+                "description": "A hand is holding a white measuring cup and pouring melted butter into a clear glass mixing bowl. The bowl already contains a yellow, creamy mixture, likely beaten eggs or a similar base. The text overlay indicates the amount being added is 1/2 cup of melted butter. To the right, small bowls of chocolate chips and cocoa powder sit on a marble countertop, with a wooden spoon resting beside them, suggesting these ingredients will be added next."
+            },
+            {
+                "frame_number": 80,
+                "timestamp": 2.6666666666666665,
+                "description": "The image shows a clear glass mixing bowl centered on a marble countertop, containing a smooth, pale yellow liquid that is identified by text as \"melted butter, 1/2 cup\". The butter appears fully melted and has a glossy, viscous texture. To the right of the bowl, there are two small white bowls: one holds dark chocolate chips, with a few scattered on the counter, and the other contains a brown powder, likely cocoa, with a wooden spoon resting beside it, holding some of the powder. The scene is static, indicating a pause in the cooking process after the butter has been melted and is now ready for the next step."
+            },
+            {
+                "frame_number": 100,
+                "timestamp": 3.3333333333333335,
+                "description": "A hand is holding a white measuring cup, poised to pour its contents into the clear glass mixing bowl. The bowl contains a yellow, liquid mixture, likely the melted butter and eggs that have already been combined. To the right, small bowls of chocolate chips and cocoa powder, along with a wooden spoon holding some cocoa powder, remain untouched on the marble countertop. The action captured is the imminent addition of another ingredient, likely milk or water, to the mixture."
+            },
+            {
+                "frame_number": 120,
+                "timestamp": 4.0,
+                "description": "A hand is holding a white measuring cup and pouring a white granular substance, likely sugar, into a clear glass bowl containing a yellow liquid mixture. The hand is actively tilting the cup to add the ingredient. To the right, small bowls of chocolate chips and cocoa powder remain on the marble surface, with a few chocolate chips scattered nearby and a wooden spoon resting beside the cocoa powder bowl."
+            },
+            {
+                "frame_number": 140,
+                "timestamp": 4.666666666666667,
+                "description": "The image shows a top-down view of a clear glass bowl on a marble countertop. Inside the bowl, a yellow mixture, likely melted butter or egg yolks, is surrounded by a ring of white granulated sugar. To the right of the bowl, two small white bowls contain chocolate chips and cocoa powder, respectively, with a few chocolate chips scattered on the counter. A wooden spoon with cocoa powder on it rests beside the bowls. The scene suggests the sugar has just been added to the yellow mixture, and the next step in the recipe is likely to combine the ingredients."
+            },
+            {
+                "frame_number": 160,
+                "timestamp": 5.333333333333333,
+                "description": "A person is actively whisking the mixture in the clear glass bowl. The whisk, with colorful silicone tines, is moving in a circular motion, blending the white sugar into the yellow liquid, which appears to be egg yolks or a similar base. The mixture is still visibly layered, with the sugar on top of the yellow liquid, indicating the whisking is in progress. The person's hands are holding the bowl steady while whisking. The surrounding ingredients—chocolate chips and cocoa powder in small bowls, along with a wooden spoon—remain undisturbed on the marble countertop."
+            },
+            {
+                "frame_number": 180,
+                "timestamp": 6.0,
+                "description": "A person is vigorously whisking a pale yellow, creamy mixture in a clear glass bowl. The motion of the whisk causes the mixture to blur slightly, indicating active mixing. The person's hands are holding the bowl steady with one hand while whisking with the other. To the right of the bowl, small bowls of chocolate chips and cocoa powder, along with a wooden spoon holding some cocoa powder, remain on the marble countertop, untouched."
+            },
+            {
+                "frame_number": 200,
+                "timestamp": 6.666666666666667,
+                "description": "A person is vigorously mixing a pale yellow, thick, mashed mixture in a clear glass bowl using a yellow spatula. The mixture appears to be a base, possibly mashed potatoes or a similar starchy ingredient, being thoroughly combined. The person's hands are actively working the mixture, indicating a step that requires consistent blending. To the right of the bowl, a small white bowl of chocolate chips and another with cocoa powder are visible, along with a wooden spoon holding some cocoa powder, suggesting these ingredients are set aside for the next stage. The scene is set on a white marble countertop."
+            },
+            {
+                "frame_number": 220,
+                "timestamp": 7.333333333333333,
+                "description": "A pair of hands is vigorously whisking a pale yellow, creamy mixture in a clear glass bowl. The motion of the whisk is causing the mixture to swirl and splash slightly against the sides of the bowl. To the right of the bowl, on a marble countertop, are two small white bowls—one containing chocolate chips and the other containing cocoa powder—and a wooden spoon with cocoa powder on it. The mixture appears to be thick and well-combined."
+            },
+            {
+                "frame_number": 240,
+                "timestamp": 8.0,
+                "description": "A person is whisking a pale yellow, creamy mixture in a clear glass bowl. Their left hand holds the bowl steady while their right hand moves a colorful, multi-stranded whisk in a circular motion to blend the contents. The mixture appears smooth and well-combined. To the right of the bowl, a small white bowl of chocolate chips and another of cocoa powder sit on a marble surface, with a few chocolate chips scattered nearby and a wooden spoon holding some cocoa powder."
+            },
+            {
+                "frame_number": 260,
+                "timestamp": 8.666666666666666,
+                "description": "A hand is holding a clear glass mixing bowl containing a pale yellow, creamy mixture that appears to have been recently stirred. The mixture has a thick, slightly lumpy texture. To the right of the bowl, a wooden spoon with a brown powder (likely cocoa) on it rests on the marble countertop. Nearby, two small white bowls contain chocolate chips and cocoa powder, respectively, with a few chocolate chips scattered around. The hand holding the bowl is steady, suggesting the mixing action has paused."
+            },
+            {
+                "frame_number": 280,
+                "timestamp": 9.333333333333334,
+                "description": "A hand is holding an egg directly above a clear glass mixing bowl. The bowl contains a pale yellow, thick, and creamy mixture, which appears to be the base batter. The hand is poised to crack the egg into the batter, suggesting the next step in the recipe is to add the egg as an ingredient. To the right of the bowl, there are small bowls containing chocolate chips and cocoa powder, along with a wooden spoon holding some cocoa powder, indicating these are ingredients being used in the recipe. The scene is set on a white marble countertop."
+            },
+            {
+                "frame_number": 300,
+                "timestamp": 10.0,
+                "description": "A pair of hands is holding a single white egg over a clear glass bowl. The egg is being gently cracked open, with the fingers pinching the shell at the top. The egg is positioned directly above the bowl, which contains a yellowish batter. The hands are in the process of cracking the egg, preparing to add the egg contents into the batter. The background shows a marble countertop with small bowls of chocolate chips and a brown powder, likely cocoa, along with a wooden spoon."
+            },
+            {
+                "frame_number": 320,
+                "timestamp": 10.666666666666666,
+                "description": "In the current frame, a pair of hands is shown cracking an egg directly into a clear glass mixing bowl. The bowl already contains a yellow, thick batter, and as the egg is cracked, its contents are being added to the mixture. The hands are actively separating the eggshell, allowing the egg white and yolk to fall into the batter. To the right of the bowl, on a marble countertop, are small bowls containing chocolate chips and a brown powder, likely cocoa, along with a wooden spoon. Some chocolate chips are scattered on the counter."
+            },
+            {
+                "frame_number": 340,
+                "timestamp": 11.333333333333334,
+                "description": "A hand is holding a white, round object, likely a piece of butter or a small block of cream cheese, directly over a clear glass bowl. The bowl contains a pale yellow batter with a visible, bright yellow egg yolk in the center. The hand is positioned as if about to drop the white object into the batter. To the right, a small white bowl of chocolate chips, a small white bowl of brown powder (likely cinnamon), and a wooden spoon with some of the brown powder on it are visible on the marble countertop."
+            },
+            {
+                "frame_number": 360,
+                "timestamp": 12.0,
+                "description": "In the current frame, a hand is holding a white egg, positioned directly above a clear glass mixing bowl. The bowl contains a pale yellow batter with a single, intact egg yolk resting in the center, indicating that the egg has just been cracked and added to the mixture. The hand is holding the egg shell, suggesting the action of cracking is either just completed or is about to be finished. To the right of the bowl, small bowls of chocolate chips and cinnamon, along with a wooden spoon, remain on the marble countertop, ready for use."
+            },
+            {
+                "frame_number": 380,
+                "timestamp": 12.666666666666666,
+                "description": "A person is holding an egg, poised to crack it open and add it to the batter in the glass bowl. The egg is held between both hands, with the fingers positioned to break the shell. The batter in the bowl already contains a yellow egg yolk, indicating that at least one egg has already been added. Nearby, small bowls of chocolate chips and a brown powder (likely cinnamon) are visible, along with a wooden spoon, suggesting these ingredients are prepared for the next step."
+            },
+            {
+                "frame_number": 400,
+                "timestamp": 13.333333333333334,
+                "description": "A pair of hands is shown cracking an egg directly into a clear glass mixing bowl. The egg is being broken open, and the contents—yolk and white—are being added to the existing yellow batter already in the bowl. The hands are positioned to control the flow of the egg into the mixture. Around the bowl, on a marble countertop, small bowls containing chocolate chips and a brown powder (likely cinnamon) are visible, along with a wooden spoon holding some of the brown powder."
+            },
+            {
+                "frame_number": 420,
+                "timestamp": 14.0,
+                "description": "A pair of hands is holding a white, cylindrical object, which appears to be a block of butter or a similar solid fat, over a glass mixing bowl. The bowl contains a yellow batter, and the hands are in the process of breaking or crumbling the white block into the mixture. To the right, small bowls of chocolate chips and a brown powder (likely cinnamon) are visible, along with a wooden spoon holding some of the brown powder. The scene is set on a white marble countertop."
+            },
+            {
+                "frame_number": 440,
+                "timestamp": 14.666666666666666,
+                "description": "In the current frame, two eggs are visible in a clear glass mixing bowl, resting on a marble countertop. The egg whites are partially mixed with the yolks, indicating they have just been cracked and are in the process of being combined. To the right of the bowl, small bowls contain chocolate chips and a brown powder, likely cinnamon, with a few scattered chips and a wooden spoon holding some of the powder. The scene suggests the initial step of preparing a recipe that will involve these eggs and the nearby ingredients."
+            },
+            {
+                "frame_number": 460,
+                "timestamp": 15.333333333333334,
+                "description": "In the current frame, a person is actively whisking the eggs in the glass bowl. The whisk, with its colorful wires, is moving through the yellow egg mixture, which is visibly being aerated and combined. The person’s hands are holding the bowl steady with one hand while vigorously mixing with the other. The surrounding ingredients — chocolate chips in a small white bowl, a separate bowl of cinnamon, and a wooden spoon with some cinnamon on it — remain untouched on the marble countertop, indicating the whisking is the current focus of the preparation."
+            },
+            {
+                "frame_number": 480,
+                "timestamp": 16.0,
+                "description": "In the current frame, the whisking motion continues, with the hands actively mixing the eggs in the glass bowl. The mixture is now visibly more homogenous, with the yolks fully incorporated into the whites, creating a uniform, pale yellow batter. The motion of the whisk causes a slight blur in the center of the bowl, indicating ongoing blending. The surrounding ingredients—chocolate chips in a small bowl, a separate bowl of brown powder (likely cinnamon), and a wooden spoon with some of the powder on it—remain untouched and positioned to the right of the bowl. The scene remains focused on the mixing process, with no other actions occurring."
+            },
+            {
+                "frame_number": 500,
+                "timestamp": 16.666666666666668,
+                "description": "A pair of hands is actively whisking a bright yellow batter in a clear glass mixing bowl. The motion is vigorous, creating swirls and folds in the mixture. To the right of the bowl, on a marble countertop, are small bowls containing chocolate chips and a brown powder, likely cinnamon, along with a wooden spoon holding some of the brown powder. The ingredients remain untouched and separate from the batter being mixed."
+            },
+            {
+                "frame_number": 520,
+                "timestamp": 17.333333333333332,
+                "description": "A hand is vigorously whisking a thick, pale yellow batter in a clear glass bowl. The motion is fast, creating visible swirls and a slight blur in the batter's surface. The other hand holds the side of the bowl steady. The batter appears smooth and well-mixed."
+            },
+            {
+                "frame_number": 540,
+                "timestamp": 18.0,
+                "description": "A person is vigorously whisking a pale yellow batter in a clear glass bowl using a colorful, multi-stranded whisk. The motion of whisking is causing visible swirls and streaks in the batter, indicating it is being mixed with energy. The person’s hands are holding the bowl steady with one hand while operating the whisk with the other. The batter appears smooth and well-blended, with no visible lumps."
+            },
+            {
+                "frame_number": 560,
+                "timestamp": 18.666666666666668,
+                "description": "A hand holds a clear glass bowl containing a smooth, pale yellow batter. A colorful, multi-stranded whisk is actively moving through the batter, creating ripples and swirls on the surface, indicating it is being mixed. The batter appears uniform and well-blended, with no visible lumps. The bowl rests on a light-colored, marbled countertop."
+            },
+            {
+                "frame_number": 580,
+                "timestamp": 19.333333333333332,
+                "description": "The batter in the glass bowl is now smooth and has a uniform, pale yellow color, indicating it has been thoroughly whisked. The surface is mostly calm with only a few small, scattered bubbles, suggesting the vigorous whisking from the previous step has been completed. The hands are still visible, one steadying the bowl from the left side and the other partially visible on the right, implying the mixing action has just finished or is being paused momentarily. The batter appears fully emulsified and ready for the next step."
+            },
+            {
+                "frame_number": 600,
+                "timestamp": 20.0,
+                "description": "A hand is holding a small white bowl and is in the process of adding its contents into a larger glass mixing bowl. The larger bowl contains a yellow, liquid batter that appears to be partially mixed, with some visible lumps or streaks. To the right of the mixing bowl, there are two small white bowls containing chocolate chips and a brown powder, likely cinnamon, along with a wooden spoon that has some of the brown powder on it. The entire scene is set on a white marble countertop."
+            },
+            {
+                "frame_number": 620,
+                "timestamp": 20.666666666666668,
+                "description": "The batter, now a smooth, pale yellow mixture, sits in a clear glass bowl on a marble countertop. A single, dark brown dollop of vanilla extract is centered in the batter, indicating it has just been added. To the right, two small white bowls hold ingredients: one with chocolate chips and another with a brown powder, likely cinnamon. A wooden spoon, also dusted with the brown powder, rests beside the bowls. The scene is static, suggesting the next step is to incorporate the vanilla extract into the batter."
+            },
+            {
+                "frame_number": 640,
+                "timestamp": 21.333333333333332,
+                "description": "A person is vigorously whisking a yellow batter in a clear glass bowl. Their right hand holds a whisk, moving it rapidly in a circular motion, causing the batter to swirl and blur. Their left hand steadies the bowl. To the right, on a marble countertop, there are small bowls containing chocolate chips and cinnamon, with some of the chocolate chips scattered nearby. A wooden spoon with cinnamon on it rests beside the bowls."
+            },
+            {
+                "frame_number": 660,
+                "timestamp": 22.0,
+                "description": "A pair of hands holds a clear glass bowl containing a smooth, pale yellow batter. A hand is actively whisking the batter with a colorful whisk, creating swirling motion within the mixture. To the right of the bowl, on a marble countertop, are small bowls of chocolate chips and a brown spice (likely cinnamon), along with a wooden spoon holding some of the spice. The batter appears well-mixed and uniform in texture."
+            },
+            {
+                "frame_number": 680,
+                "timestamp": 22.666666666666668,
+                "description": "A hand is holding a whisk and vigorously mixing a smooth, pale yellow batter in a clear glass bowl. The motion of the whisk creates visible concentric ripples on the surface of the batter. The bowl is held steady by the other hand, which grips its rim. The background is a light-colored, marbled countertop."
+            },
+            {
+                "frame_number": 700,
+                "timestamp": 23.333333333333332,
+                "description": "A hand is holding a clear glass mixing bowl containing a pale yellow batter. A colorful, rainbow-striped whisk is actively moving through the batter, creating ripples and small bubbles on the surface. The batter appears smooth and consistent, with a few small white specks visible. The bowl rests on a white marble countertop."
+            },
+            {
+                "frame_number": 720,
+                "timestamp": 24.0,
+                "description": "A hand is holding a clear glass mixing bowl, which contains a yellow, liquid mixture. A whisk with colorful, blurred strands is actively moving through the mixture, indicating it is being whisked. The motion of the whisk causes ripples and small bubbles to form on the surface of the liquid, suggesting the mixture is being aerated. The bowl rests on a light-colored, marbled countertop."
+            },
+            {
+                "frame_number": 740,
+                "timestamp": 24.666666666666668,
+                "description": "The whisking action has ceased. The batter, now a smooth, pale yellow liquid, sits undisturbed in the clear mixing bowl. A hand is visible, holding the whisk handle just below the bowl's rim, suggesting the mixing has been paused. To the right, two small bowls contain chocolate chips and a brown powder, with a few chocolate chips scattered on the marble countertop. A wooden spoon with a brown powder on it rests beside the bowls. The scene is static, indicating a momentary pause in the preparation process."
+            },
+            {
+                "frame_number": 760,
+                "timestamp": 25.333333333333332,
+                "description": "The batter, now smooth and lump-free after being strained through the fine-mesh sieve, sits ready in the sieve. To the side, a small wooden spoon holds a scoop of cocoa powder, positioned next to a small bowl of cocoa powder and a bowl of chocolate chips, indicating the next step is likely to incorporate these dry ingredients into the batter."
+            },
+            {
+                "frame_number": 780,
+                "timestamp": 26.0,
+                "description": "A hand is holding a white, circular object with a central hole, pressing it down into a fine-mesh sieve. The sieve is positioned over a bowl and contains a brown, powdery substance that has been sifted, indicating the action of sifting is in progress. To the side, small bowls contain chocolate chips and cocoa powder, with some of the cocoa powder spilled onto the marble surface next to a wooden spoon."
+            },
+            {
+                "frame_number": 800,
+                "timestamp": 26.666666666666668,
+                "description": "A hand is holding a white bowl and tilting it to pour its contents into a fine-mesh sieve. The sieve is positioned over a larger bowl, and brown powder, likely cocoa or flour, is visible inside the sieve. To the right, a small bowl of chocolate chips, a small bowl of cocoa powder, and a wooden spoon with cocoa powder on it are arranged on the marble countertop."
+            },
+            {
+                "frame_number": 820,
+                "timestamp": 27.333333333333332,
+                "description": "The cocoa powder is now being sifted through a fine-mesh sieve, which is positioned over a bowl. The powder is piled in the center of the sieve, indicating the sifting action is in progress or has just been completed. To the side, a small bowl of chocolate chips, a small bowl of cocoa powder, and a wooden spoon with cocoa powder on it are visible on the marble countertop."
+            },
+            {
+                "frame_number": 840,
+                "timestamp": 28.0,
+                "description": "A hand is pressing down on a white sifter, actively sifting a mixture of cocoa powder and other dry ingredients through a fine-mesh sieve into a bowl below. The sifting action is in progress, with fine particles falling through the sieve. To the side, small bowls contain chocolate chips and additional cocoa powder, with some chocolate chips scattered on the marble countertop. A wooden spoon with cocoa powder residue rests nearby."
+            },
+            {
+                "frame_number": 860,
+                "timestamp": 28.666666666666668,
+                "description": "A hand is pouring a white powdery ingredient, likely flour or powdered sugar, from a white bowl into a metal sieve that is positioned over a bowl. The sieve already contains a brown powder, which appears to be cocoa powder. The action is part of the sifting process, where dry ingredients are combined and passed through the sieve to ensure a fine, even texture. To the right, small bowls of chocolate chips and cocoa powder, along with a wooden spoon holding a brown spice, are visible on the marble countertop."
+            },
+            {
+                "frame_number": 880,
+                "timestamp": 29.333333333333332,
+                "description": "A hand is actively sifting a mixture of white flour and brown cocoa powder through a fine-mesh sieve into a glass bowl below. The motion of the hand pressing and moving the dry ingredients causes them to pass through the sieve, creating a fine, even blend. To the side, small bowls contain chocolate chips and additional cocoa powder, with a few chips scattered on the marble countertop and a wooden spoon resting nearby."
+            },
+            {
+                "frame_number": 900,
+                "timestamp": 30.0,
+                "description": "The dry ingredients, consisting of a mound of white flour and a surrounding layer of brown cocoa powder, are being sifted through a metal sieve. The sieve is positioned over a bowl, and the fine powders are falling through the mesh into the bowl below. To the right, a small white bowl of chocolate chips, a small white bowl of cocoa powder, and a wooden spoon with cocoa powder on it are arranged on the marble countertop. Some chocolate chips are scattered on the counter near the bowls."
+            },
+            {
+                "frame_number": 920,
+                "timestamp": 30.666666666666668,
+                "description": "In the current frame, the dry ingredients, which appear to be a mixture of flour and cocoa powder, are being sifted through a metal sieve. The sieve is positioned over a bowl, and the powders are visibly falling through its mesh into the bowl below. The action of sifting is ongoing, as indicated by the fine dusting of cocoa powder on the surface of the sieve and the visible accumulation of sifted powder in the bowl. To the side, small bowls containing chocolate chips and cocoa powder remain untouched, awaiting their addition to the mixture. A wooden spoon rests nearby, suggesting it may be used for subsequent mixing. The scene remains set on a marble countertop, maintaining the focus on the preparation of the dry ingredients."
+            },
+            {
+                "frame_number": 940,
+                "timestamp": 31.333333333333332,
+                "description": "A hand is holding a metal sieve over a bowl, gently tapping it to sift a mixture of white flour and brown cocoa powder. The sifting action is in progress, with some of the dry ingredients already falling through the sieve into the bowl below. To the side, small bowls contain chocolate chips and cocoa powder, with a few chips scattered on the marble countertop next to a wooden spoon."
+            },
+            {
+                "frame_number": 960,
+                "timestamp": 32.0,
+                "description": "A hand holds a metal sieve over a glass bowl, gently tapping it to sift a mound of white powder—likely flour or powdered sugar—into the bowl below. The bowl already contains a brown, thicker mixture, indicating the sifter is being used to incorporate the dry ingredient into the existing batter. To the right, small bowls of chocolate chips and cocoa powder sit beside a wooden spoon, suggesting these ingredients are next in line for use. The scene remains on a marble countertop, with the sifting action in progress."
+            },
+            {
+                "frame_number": 980,
+                "timestamp": 32.666666666666664,
+                "description": "The sifting process has just been completed. The sieve is now being lifted away from the bowl, revealing a smooth, even layer of sifted flour resting on top of the darker, already-mixed batter in the bowl. The hand that was holding the sieve is now positioned to lower it, suggesting the next step is to combine the sifted flour with the batter. To the side, a wooden spoon with cocoa powder on it and two small bowls containing chocolate chips and cocoa powder remain untouched, indicating the next ingredients to be added."
+            },
+            {
+                "frame_number": 1000,
+                "timestamp": 33.333333333333336,
+                "description": "The sifting action has just concluded. The metal sieve, now held above the glass bowl, is being lifted away, leaving behind a fine, even layer of the sifted dry ingredients — a mixture of white flour and reddish-brown cocoa powder — settled in the bowl. The motion of lifting the sieve is captured mid-air, with a slight blur indicating movement. The bowl rests on a white marble countertop, and the contents inside show the texture and distribution resulting from the sifting process."
+            },
+            {
+                "frame_number": 1020,
+                "timestamp": 34.0,
+                "description": "The sifting process has just concluded. A fine, uniform powder, likely the flour blend, now rests in the clear glass bowl. The sifter is being lifted away from the bowl, indicating the action of sifting is complete. The surface of the powder appears smooth and evenly distributed, suggesting the sifting was successful in breaking up any lumps and aerating the mixture. The bowl sits on a marble countertop, and the scene is ready for the next step in the recipe."
+            },
+            {
+                "frame_number": 1040,
+                "timestamp": 34.666666666666664,
+                "description": "A hand is using a red silicone spatula to fold and mix the dry ingredients in a clear glass bowl. The mixture, which appears to be a blend of flour and cocoa powder, is being gently stirred to combine them. To the right of the bowl, there are small bowls containing chocolate chips and cocoa powder, along with a wooden spoon holding some cocoa powder. The scene is set on a marble countertop."
+            },
+            {
+                "frame_number": 1060,
+                "timestamp": 35.333333333333336,
+                "description": "A person is actively mixing a thick, brown batter in a clear glass bowl using a red and gray spatula. Their hands are visible, holding the bowl steady with one hand while the other vigorously stirs the mixture. The batter has a textured, slightly lumpy appearance, with visible streaks of white flour or sugar being folded into the darker chocolate mixture. To the right of the bowl, two small white bowls contain chocolate chips and cocoa powder, with some chocolate chips scattered on the marble countertop. A wooden spoon with cocoa powder on it rests beside the bowls."
+            },
+            {
+                "frame_number": 1080,
+                "timestamp": 36.0,
+                "description": "A person is vigorously mixing a thick, brown batter in a clear glass bowl using a red spatula. Their left hand steadies the bowl while their right hand moves the spatula in a circular motion, incorporating the ingredients. The batter appears to be a chocolate-based mixture, with visible streaks of white powder, likely flour or sugar, being folded in. To the right of the bowl, small bowls of chocolate chips and cocoa powder, along with a wooden spoon holding cocoa powder, are arranged on a marble countertop."
+            },
+            {
+                "frame_number": 1100,
+                "timestamp": 36.666666666666664,
+                "description": "A person is vigorously stirring a thick, brown batter in a large glass mixing bowl using a red spatula. The motion creates visible swirls and splashes within the mixture. To the right of the bowl, on a marble countertop, are two small white bowls—one containing chocolate chips and the other holding cocoa powder—along with a wooden spoon that has some cocoa powder on it. The person's hands are actively engaged in mixing, indicating the batter is being worked to ensure consistency."
+            },
+            {
+                "frame_number": 1120,
+                "timestamp": 37.333333333333336,
+                "description": "A hand is holding a red-handled spatula and stirring a thick, dark chocolate batter inside a glass mixing bowl. The batter has a smooth, glossy texture with visible swirls from the stirring motion. The sides of the bowl show some residue of the batter, indicating it has been mixed thoroughly. The hand holding the spatula is actively moving it through the center of the mixture."
+            },
+            {
+                "frame_number": 1140,
+                "timestamp": 38.0,
+                "description": "A hand is holding a fork and is actively stirring a thick, dark chocolate batter in a clear glass bowl. The batter has a glossy, smooth texture with visible swirls from the stirring motion. An orange silicone spatula is also partially submerged in the batter, resting against the side of the bowl. The mixture appears well-combined and uniform in color."
+            },
+            {
+                "frame_number": 1160,
+                "timestamp": 38.666666666666664,
+                "description": "The thick, dark chocolate batter is being held steady in a clear glass bowl, with a spatula resting inside it, indicating a pause in the stirring action. The batter's surface shows swirls from the previous mixing, and the spatula has a dollop of the mixture clinging to its orange tip. The bowl is held by two hands, and surrounding it on the marble countertop are small bowls of chocolate chips and cocoa powder, along with a wooden spoon, suggesting the mixing process has just been paused or is about to resume."
+            },
+            {
+                "frame_number": 1180,
+                "timestamp": 39.333333333333336,
+                "description": "The hands are holding a clear, rectangular glass baking dish, positioning it over the countertop. The dish is empty and appears to be being prepared for the next step, likely to receive the chocolate batter. The countertop beneath has a white and grey marbled pattern, and a single almond is visible on the right side. The focus is on the dish being placed, with the background and hands slightly blurred."
+            },
+            {
+                "frame_number": 1200,
+                "timestamp": 40.0,
+                "description": "A pair of hands is holding a square, light gray baking pan with handles. The interior of the pan is lined with a piece of white parchment paper, which is being adjusted or smoothed down. To the right, two small white bowls contain chocolate chips and cocoa powder, with some chips scattered on the marble countertop. A wooden spoon with cocoa powder residue rests beside the bowls. The scene suggests preparation for baking, with the pan being readied for the chocolate batter."
+            },
+            {
+                "frame_number": 1220,
+                "timestamp": 40.666666666666664,
+                "description": "The hands have moved away from the center of the frame, suggesting the action of positioning the baking pan has been completed. The square, light blue baking pan, lined with parchment paper, remains centered on the marble countertop. To its right, the small white bowl of chocolate chips and the bowl of cocoa powder are still in place, with a few chocolate chips scattered on the counter between them. A wooden spoon, holding a small amount of cocoa powder, rests beside the bowls. The overall scene remains static, indicating a pause in the preparation process after the pan was set down."
+            },
+            {
+                "frame_number": 1240,
+                "timestamp": 41.333333333333336,
+                "description": "A hand is tilting a glass mixing bowl, pouring a thick, dark brown batter into a rectangular baking pan lined with parchment paper. The batter flows smoothly from the bowl, and a red spatula is visible inside the bowl, used to help scrape the remaining batter. To the right, a small bowl of chocolate chips, a small bowl of cocoa powder, and a wooden spoon with cocoa powder on it remain on the marble countertop."
+            },
+            {
+                "frame_number": 1260,
+                "timestamp": 42.0,
+                "description": "A hand is using a spatula to scrape the remaining chocolate cake batter from a glass mixing bowl into a light blue, rectangular baking pan. The pan is lined with parchment paper. The batter is thick and dark brown. To the right, a small white bowl of chocolate chips and a small white bowl of cocoa powder are visible on the marble countertop, with a few scattered chips and a wooden spoon holding some cocoa powder nearby."
+            },
+            {
+                "frame_number": 1280,
+                "timestamp": 42.666666666666664,
+                "description": "A thick, glossy chocolate batter is being poured from above into a baking pan lined with parchment paper. The batter is viscous, forming a smooth, dripping cascade as it falls, and is beginning to fill the bottom of the pan. The focus is on the pouring action and the texture of the batter."
+            },
+            {
+                "frame_number": 1300,
+                "timestamp": 43.333333333333336,
+                "description": "A thick, glossy chocolate batter is being poured or scooped into a baking pan lined with parchment paper. The batter is dark brown and has a smooth, viscous consistency, with visible folds and swirls from the pouring motion. The focus is on the batter as it fills the pan, indicating the ongoing process of preparing the batter for baking."
+            },
+            {
+                "frame_number": 1320,
+                "timestamp": 44.0,
+                "description": "A thick, glossy chocolate batter is being spread over the top of a baked cake or brownie in a pan. The batter is being poured or scraped from above, creating a smooth, even layer over the surface of the baked good. The surface of the batter is shiny, indicating it is still warm and moist. The cake or brownie is resting on white parchment paper inside a light-colored baking pan."
+            },
+            {
+                "frame_number": 1340,
+                "timestamp": 44.666666666666664,
+                "description": "The chocolate cake batter is being scooped up and lifted from the pan, indicating that the batter is being removed or transferred. The batter appears thick and glossy, clinging to the scooping utensil as it is lifted away from the pan. The pan, lined with parchment paper, is visible underneath, and the batter is being moved out of the pan, suggesting the cake is being removed from its baking container."
+            },
+            {
+                "frame_number": 1360,
+                "timestamp": 45.333333333333336,
+                "description": "A hand is using a red-tipped spatula to spread and smooth the thick, glossy chocolate batter within a light blue square baking pan. The batter is being carefully leveled across the surface. To the right of the pan, there are small bowls containing chocolate chips and a brown powder, with some chips scattered on the marble countertop. A wooden spoon with brown powder on it rests nearby."
+            },
+            {
+                "frame_number": 1380,
+                "timestamp": 46.0,
+                "description": "The chocolate cake batter, now smoothed and evenly spread in the square baking pan, is ready for the next step. The pan sits on a marble countertop, surrounded by the ingredients used: a small bowl of chocolate chips, a small bowl of cocoa powder, and a wooden spoon holding a scoop of cocoa powder. The scene suggests the batter is prepared and awaiting baking."
+            },
+            {
+                "frame_number": 1400,
+                "timestamp": 46.666666666666664,
+                "description": "The chocolate cake batter, now smooth and evenly spread in the square baking pan, is being gently tapped on the sides by a pair of hands. This action is likely to release any trapped air bubbles and help settle the batter firmly in the pan. The hands are positioned on either side of the pan, with fingers slightly curled inward, indicating a careful, controlled motion. The surrounding ingredients—chocolate chips in a small bowl, a small bowl of cocoa powder, and a wooden spoon with cocoa powder on it—are still present on the marble countertop, untouched. The batter's surface shows the swirls from the spreading process, and the pan is lined with parchment paper."
+            },
+            {
+                "frame_number": 1420,
+                "timestamp": 47.333333333333336,
+                "description": "The hands are now holding the square baking pan with the chocolate cake batter, lifting it slightly off the marble countertop. The batter remains smooth and level, indicating it has been recently adjusted. To the right, a small wooden spoon with cocoa powder on it and two small bowls containing chocolate chips and cocoa powder are visible, suggesting these ingredients may be used next. The overall scene implies the pan is being prepared for the next step, likely baking."
+            },
+            {
+                "frame_number": 1440,
+                "timestamp": 48.0,
+                "description": "The image shows a dark green, textured surface, likely a chalkboard or similar material. In the upper left corner, there are two overlapping white, rounded rectangular shapes, resembling speech bubbles or placeholder graphics. In the upper right corner, a small red logo or watermark is visible, featuring stylized text. The rest of the surface is plain and uniform in color, with no other discernible objects or activity."
+            },
+            {
+                "frame_number": 1460,
+                "timestamp": 48.666666666666664,
+                "description": "A pair of hands holds a small, light green bowl filled with clear water, positioned directly above a large, stainless steel mixing bowl. The bowl is being held steady, suggesting it is about to be used, possibly to pour the water into the larger bowl or to rinse something. In the background, small bowls containing chocolate chips and cocoa powder, along with a wooden spoon, remain on the marble countertop."
+            },
+            {
+                "frame_number": 1480,
+                "timestamp": 49.333333333333336,
+                "description": "A pair of hands holds a light green bowl, submerging it into a large, shallow metal pan filled with ice water. The bowl is fully immersed, and the ice water is visibly swirling around its base. The surrounding countertop holds small bowls of chocolate chips and cocoa powder, along with a wooden spoon. This action suggests the bowl is being cooled rapidly, likely to temper chocolate or to chill a mixture before incorporating it into the cake batter."
+            },
+            {
+                "frame_number": 1500,
+                "timestamp": 50.0,
+                "description": "A pair of hands holds a light green bowl, submerging it into a large, silver pot of water. The water is actively bubbling, indicating it is hot, likely at a simmer. The bowl is fully immersed, and the water level reaches just above the rim of the bowl. To the right, small bowls containing chocolate chips and cocoa powder, along with a wooden spoon, remain on the marble countertop."
+            },
+            {
+                "frame_number": 1520,
+                "timestamp": 50.666666666666664,
+                "description": "A large, silver-colored pot with black handles sits on a marble countertop, filled with water that is actively swirling in a circular motion, indicating it is being stirred or agitated. To the right of the pot, two small white bowls are visible: one contains chocolate chips and the other holds a brown powder, likely cocoa powder. A wooden spoon rests between the bowls. The top of the image has a white banner, and a red logo with the word \"Dished\" is visible in the top right corner. The overall scene suggests a cooking or baking preparation step is underway."
+            },
+            {
+                "frame_number": 1540,
+                "timestamp": 51.333333333333336,
+                "description": "A hand is holding a metal bowl, which is being lowered into a larger pot of simmering water. The bowl is submerged, indicating the chocolate inside is being gently heated to melt it evenly. The water in the pot is at a gentle simmer, as evidenced by the slight steam and the motion of the water’s surface. The metal bowl being lowered is likely the one containing chocolate chips, which will be tempered using this water bath method."
+            },
+            {
+                "frame_number": 1560,
+                "timestamp": 52.0,
+                "description": "A hand is holding a metal ring, which is being submerged into a pot of simmering water. The ring is positioned over the water, suggesting it is being placed into the double boiler setup. The water is at a gentle simmer, indicated by the visible steam and ripples on the surface. The action implies the next step in the chocolate tempering process is about to begin, as the ring will likely hold the bowl containing the chocolate."
+            },
+            {
+                "frame_number": 1580,
+                "timestamp": 52.666666666666664,
+                "description": "A hand is holding a round, metal strainer or sieve over a pot of simmering water. The strainer is positioned directly above the water, and the hand appears to be gently moving it, possibly to allow steam to escape or to prevent condensation from dripping back into the pot. The water is at a gentle simmer, indicated by the visible steam rising from the surface."
+            },
+            {
+                "frame_number": 1600,
+                "timestamp": 53.333333333333336,
+                "description": "A pair of hands is holding a square, light blue silicone mold with a thick, dark chocolate mixture inside. The mold is being lifted out of a large, stainless steel pot, which is part of the double boiler setup. The chocolate appears smooth and glossy, indicating it has been melted and possibly tempered. The mold is being carefully removed from the pot, likely to cool or to be transferred to another surface."
+            },
+            {
+                "frame_number": 1620,
+                "timestamp": 54.0,
+                "description": "A pair of hands is lifting a square, light blue baking dish with handles, which contains a thick, dark chocolate mixture. The dish is being lifted out of a large, grey pot, which is part of a double boiler setup. The chocolate mixture has a smooth, glossy surface with visible swirls from recent stirring. The surrounding area shows a marble countertop with small bowls containing chocolate chips and a brown powder, likely cocoa or cinnamon, along with a wooden spoon."
+            },
+            {
+                "frame_number": 1640,
+                "timestamp": 54.666666666666664,
+                "description": "The chocolate mixture, now fully transferred into the square baking dish lined with parchment paper, is being gently smoothed on its surface. A hand is visible, using a wooden spoon to carefully spread and level the batter, ensuring an even layer before it proceeds to the next step. The baking dish remains nestled within the double boiler, indicating the process is still in a controlled, warm environment."
+            },
+            {
+                "frame_number": 1660,
+                "timestamp": 55.333333333333336,
+                "description": "A hand is pressing down on the surface of the chocolate batter in the baking dish, smoothing it out. The batter appears thick and glossy, and the hand's motion is creating a more even, level surface. The baking dish remains inside the larger pot of the double boiler, and the surrounding ingredients, including chocolate chips and a wooden spoon, are still visible on the marble countertop."
+            },
+            {
+                "frame_number": 1680,
+                "timestamp": 56.0,
+                "description": "A hand is pressing down on the surface of the chocolate batter in the baking dish, which is sitting inside a larger pot of water to create a double boiler. The hand is gently smoothing the top of the batter, ensuring it is level and even. Small chocolate chips are visible scattered on the surface of the batter. The surrounding area includes small bowls of additional ingredients, such as chocolate chips and a brown powder, and a wooden spoon."
+            },
+            {
+                "frame_number": 1700,
+                "timestamp": 56.666666666666664,
+                "description": "A hand is pressing down on the surface of the chocolate batter in the baking dish, which is sitting inside a double boiler. The action is firming the top layer, likely to create a smooth, even surface for the next step, such as chilling or baking. The chocolate chips are being pressed into the batter, and the hand's pressure is visible as it flattens the mixture. The surrounding ingredients, including chocolate chips and a spice, remain untouched on the countertop."
+            },
+            {
+                "frame_number": 1720,
+                "timestamp": 57.333333333333336,
+                "description": "A hand is using a spoon to stir the chocolate mixture in the lined dish. The text overlay instructs to \"Cook on low heat for 30-35 minutes,\" indicating the mixture is currently being heated. The chocolate appears to be melting and combining, with some unmelted chocolate chips still visible on the surface."
+            },
+            {
+                "frame_number": 1740,
+                "timestamp": 58.0,
+                "description": "The chocolate batter continues to simmer gently in the double boiler. The mixture appears to be at a consistent, low-temperature stage, with no visible signs of boiling or rapid movement. The on-screen text, \"Cook on low heat for 30-35 minutes,\" remains overlaid on the image, indicating the cooking instruction is still in effect. The batter is a dark, rich brown, and its texture looks smooth and glossy, suggesting it has been cooking for some time and is nearing the end of its simmering phase."
+            },
+            {
+                "frame_number": 1760,
+                "timestamp": 58.666666666666664,
+                "description": "A hand is visible, stirring the chocolate mixture in the double boiler. The mixture appears to be mostly melted, with some small, dark, unmelted chunks still present. The on-screen text instructs to cook on low heat for 30–35 minutes."
+            },
+            {
+                "frame_number": 1780,
+                "timestamp": 59.333333333333336,
+                "description": "The chocolate batter continues to simmer gently in the double boiler, as indicated by the on-screen text instructing to cook on low heat for 30–35 minutes. The mixture appears to be at the stage where it is nearly fully melted, with the chocolate visibly softening and combining into a smooth, dark mass. The visual state suggests the cooking process is ongoing and nearing completion, as the ingredients are still being gently heated to achieve the desired consistency."
+            },
+            {
+                "frame_number": 1800,
+                "timestamp": 60.0,
+                "description": "The chocolate batter continues to simmer gently in the double boiler. The on-screen text instructs to cook on low heat for 30–35 minutes, indicating this is a sustained cooking step. The mixture appears to be at the stage where it is nearly fully melted, as suggested by the previous context. The visual focus remains on the pot, with the surrounding ingredients and utensils blurred, emphasizing the ongoing cooking process."
+            },
+            {
+                "frame_number": 1820,
+                "timestamp": 60.666666666666664,
+                "description": "A hand is shown using a small white spatula to stir a dark, melted substance within a light blue, square-shaped container. This container is placed inside a larger, clear glass bowl, which is itself sitting atop a larger pot with a glass lid, indicating a double boiler setup. The hand is actively mixing the contents, which appear to be melted chocolate. To the right, two small white bowls hold additional ingredients: one with chocolate chips and another with a brown powder, likely cocoa or spice. A wooden spoon rests beside them on the marble countertop."
+            },
+            {
+                "frame_number": 1840,
+                "timestamp": 61.333333333333336,
+                "description": "The chocolate mixture has fully melted and is now resting in a square, light blue ceramic baking dish, which is placed inside a larger metal pot filled with water. The surface of the melted chocolate is glossy and smooth, indicating it has been thoroughly melted and is now cooling slightly. The surrounding area shows small bowls of chocolate chips and cocoa powder, and a wooden spoon, suggesting the next step involves incorporating these ingredients into the melted chocolate."
+            },
+            {
+                "frame_number": 1860,
+                "timestamp": 62.0,
+                "description": "The chocolate mixture, now fully melted and smooth, is resting in a light blue square baking pan that is sitting inside a larger metal pot filled with water, forming a water bath. The surface of the mixture is glossy and has a few small, dark speckles, likely from the chocolate chips that were incorporated. The pan is positioned centrally in the pot, and the water level is visible around its sides. To the right, small bowls containing chocolate chips and cocoa powder remain on the marble countertop, along with a wooden spoon. The overall setup suggests the mixture is being kept at a gentle, consistent temperature, likely to prevent it from setting too quickly or burning."
+            },
+            {
+                "frame_number": 1880,
+                "timestamp": 62.666666666666664,
+                "description": "A pair of hands wearing red oven mitts is holding the sides of a large metal bowl, which contains a water bath. Centered within the water bath is a square, white ceramic baking dish holding a dark chocolate mixture that has set and is now being removed from the water bath. The surface of the chocolate is glossy and slightly uneven, indicating it has cooled but not yet solidified into a firm, uniform block. The bowl of water surrounding the dish appears to be at room temperature, with no visible steam or active cooling process. The scene suggests the chocolate is being carefully lifted out of the water bath to proceed with the next step in the recipe."
+            },
+            {
+                "frame_number": 1900,
+                "timestamp": 63.333333333333336,
+                "description": "A pair of hands wearing bright red oven mitts is holding a square, light-gray ceramic baking dish. The dish contains a dark, rich chocolate mixture that has fully set and cooled, appearing as a firm, slightly glossy brownie-like cake. The dish is being lifted out of a large, stainless steel pot filled with water, indicating it has just been removed from a water bath. The surface of the chocolate is textured with small, visible air pockets and slight cracks, characteristic of a cooled, set batter. To the right, two small white bowls are visible on the marble countertop—one contains chocolate chips and the other holds a brown powder, likely cocoa. A wooden spoon rests beside the bowls. The overall scene suggests the chocolate has completed its cooling process and is now being prepared for the next step in the recipe."
+            },
+            {
+                "frame_number": 1920,
+                "timestamp": 64.0,
+                "description": "A single, square slice of chocolate brownie rests on a bright yellow plate. The brownie has a rich, dark brown color with a slightly cracked, moist-looking top surface, and visible chocolate chips are embedded within it. The cut edge reveals a dense, fudgy interior. The background is softly blurred, showing out-of-focus kitchen items, including a white bowl and a jar, suggesting a kitchen setting. Text overlays in the top right corner and on the right side of the plate read \"Dished\" and \"Subscribe,\" indicating this is a still from a food-related video."
+            },
+            {
+                "frame_number": 1940,
+                "timestamp": 64.66666666666667,
+                "description": "A hand is holding a single square slice of the chocolate brownie, lifting it slightly from a bright yellow plate. The brownie has a moist, dense texture with visible chocolate chips embedded within. The action suggests the brownie is being presented for serving or to showcase its texture. A graphic overlay with the word \"Subscribe\" and an arrow pointing to the hand is visible on the right side of the frame."
+            },
+            {
+                "frame_number": 1960,
+                "timestamp": 65.33333333333333,
+                "description": "The image shows a close-up of a yellow plate. A dark, blurred object, likely a hand or utensil, is in motion above the plate, suggesting an action like placing or removing something. In the bottom right corner, there is a red, curved arrow pointing toward the plate, accompanied by the word “Subscribe” written in white. The background is out of focus, but a white bowl or container is partially visible."
+            },
+            {
+                "frame_number": 1980,
+                "timestamp": 66.0,
+                "description": "The image shows a close-up of a plain, solid yellow surface, which appears to be a plate or a baking sheet. The focus is entirely on this yellow surface, which occupies most of the frame. In the upper right corner, there is a small, out-of-focus white object, possibly a bowl or container. A red arrow points to the word “Subscribe” written in white cursive script on the yellow surface. In the top right corner, a small red logo with the word “Dished” is visible. The background is blurred, suggesting a shallow depth of field. There is no food or cooking activity visible in this frame."
+            },
+            {
+                "frame_number": 2000,
+                "timestamp": 66.66666666666667,
+                "description": "A hand is holding up a large, thick slice of chocolate brownie, showcasing its moist, crumbly texture and embedded chocolate chips. The brownie is being lifted slightly above a bright yellow plate or cutting board. A red arrow points to the word “Subscribe” in white text, which is overlaid on the image, suggesting a call to action for viewers. The “Dished” logo is visible in the top right corner."
+            },
+            {
+                "frame_number": 2020,
+                "timestamp": 67.33333333333333,
+                "description": "A hand is holding up a single, square-shaped brownie slice, displaying its moist, crumbly texture and embedded chocolate chips. The brownie is positioned over a bright yellow plate, and the hand is slightly blurred, suggesting motion as it lifts the treat. A red arrow with the word “Subscribe” points toward the hand, indicating a call to action for viewers. The “Dished” logo is visible in the top right corner."
+            },
+            {
+                "frame_number": 2040,
+                "timestamp": 68.0,
+                "description": "The brownie slice, with its moist, crumbly texture and embedded chocolate chips, is resting on a bright yellow plate. The “Subscribe” prompt with a red arrow is still visible on the plate's surface, suggesting the image is part of a video or tutorial. The background remains out of focus, showing blurred kitchen items, which keeps the attention on the finished brownie. The scene is static, presenting the final product for the viewer."
+            },
+            {
+                "frame_number": 2060,
+                "timestamp": 68.66666666666667,
+                "description": "The image displays a single, square-shaped brownie slice resting on a bright yellow plate. The brownie is dark chocolate in color, with a moist, crumbly texture visible in its broken edge. Several melted chocolate chips are embedded on the surface. The background is softly blurred, showing out-of-focus kitchen items. A red arrow with the word “Subscribe” points towards the brownie, suggesting this is a promotional still from a cooking video. In the top right corner, the word “Dished” is visible, likely indicating the channel or brand name."
+            }
+        ],
+        "video_description": "Here is a detailed, chronological reconstruction of the cooking process based on the frame-by-frame descriptions:\n\n---\n\n### **Stage 1: Showcase & Preparation**\nThe video opens with a quick preview of the finished product—a thick, moist, and dense chocolate brownie slice embedded with melted chocolate chips, presented on a bright yellow plate. \n\nThe view then transitions to the preparation phase on a marble countertop. Small staging bowls containing chocolate chips, cocoa powder, and a wooden spoon are set aside on the side of the workspace. \n\n### **Stage 2: Mixing the Wet Base (Butter, Sugar, Eggs & Vanilla)**\n1. **Butter & Sugar Base:**  \n   * $1/2$ cup of melted butter is poured from a white measuring container into a large, clear glass mixing bowl. \n   * Granulated white sugar is added directly onto the melted butter. \n   * Using a colorful silicone whisk, the cook vigorously blends the butter and sugar together until the mixture becomes creamy, slightly thick, and evenly combined.\n\n2. **Incorporating Eggs:**  \n   * Two eggs are cracked into the bowl one after the other. \n   * The mixture is whisked vigorously once more. The eggs aerate and fully emulsify into the batter, transforming it into a smooth, uniform, pale yellow liquid base.\n\n3. **Adding Flavoring:**  \n   * A small portion of vanilla extract is poured into the center of the smooth, yellow batter. \n   * The batter is whisked thoroughly again until the extract is fully incorporated and small bubbles appear on the surface.\n\n---\n\n### **Stage 3: Sifting and Mixing Dry Ingredients**\n1. **Sifting Flour and Cocoa Powder:**  \n   * A metal fine-mesh sieve is placed directly over the clear mixing bowl containing the wet batter base. \n   * Cocoa powder and white flour are added into the sieve. \n   * The cook gently taps and sift the powders through the mesh, allowing a fine, even layer of aerated dry ingredients to settle over the wet base without forming lumps.\n\n2. **Folding and Combining Batter:**  \n   * The sieve is removed, and the cook uses a red silicone spatula to fold the dry powders into the wet batter. \n   * As the mixture is thoroughly stirred in circular motions, it transforms into a thick, glossy, dark chocolate brownie batter with no visible streaks of flour remaining.\n\n---\n\n### **Stage 4: Preparing the Pan and Pouring Batter**\n1. **Pan Setup:**  \n   * A square baking pan is lined with a piece of white parchment paper. \n2. **Transferring Batter:**  \n   * The glass mixing bowl is tilted over the lined pan, and the thick, viscous chocolate batter is scraped into the dish using the red spatula. \n   * The spatula is used to level and smooth out the top surface across the pan evenly. \n3. **Settling Batter:**  \n   * The cook gently taps the sides/bottom of the baking pan against the countertop to release trapped air bubbles and allow the batter to settle firmly in an even layer.\n\n---\n\n### **Stage 5: Double Boiler Cooking Method**\n1. **Setup and Heating:**  \n   * A double boiler / water bath system is prepared on the stove using a large pot filled with water brought to a gentle simmer on low heat. \n   * The pan containing the chocolate batter is placed carefully into the double boiler setup over the gentle heat/steam.\n   * Additional chocolate chips are scattered across or pressed onto the top surface of the batter.\n\n2. **Simmering / Cooking Process:**  \n   * On-screen text instructs to **\"Cook on low heat for 30–35 minutes.\"** \n   * The batter is gently cooked and stirred periodically as the chocolate chips melt and fuse with the batter, creating a glossy, rich texture while avoiding burning or drying out.\n\n---\n\n### **Stage 6: Chilling, Removal, and Final Presentation**\n1. **Removal:**  \n   * Wearing bright red heat-resistant oven mitts, the cook carefully lifts the hot baking pan out of the water bath and places it on the countertop to cool and fully set into a firm, dense cake structure.\n\n2. **Serving:**  \n   * Once fully set and cooled, a thick, square slice of the brownie is cut and removed from the parchment paper. \n   * The slice is showcased on a bright yellow plate, displaying its moist, fudgy interior, cracked top crust, and embedded chocolate chips."
+    }
+]
